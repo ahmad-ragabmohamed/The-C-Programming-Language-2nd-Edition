@@ -3,7 +3,7 @@
 /* copy input to output; 2nd version */
 main()
 {
-	int c;
+	char c;
 
 	while ((c = getchar()) != EOF)
 		putchar(c);
